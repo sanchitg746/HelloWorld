@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 809D-427F
+
+ Directory of C:\Users\muj\Desktop\JavaProject1
+
+12/26/2018  02:19 AM    <DIR>          .
+12/26/2018  02:19 AM    <DIR>          ..
+12/26/2018  01:12 AM               674 Hello.class
+12/26/2018  01:03 AM               144 Hello.java
+12/26/2018  02:19 AM                 0 test1.txt
+               3 File(s)            818 bytes
+               2 Dir(s)  25,234,939,904 bytes free
